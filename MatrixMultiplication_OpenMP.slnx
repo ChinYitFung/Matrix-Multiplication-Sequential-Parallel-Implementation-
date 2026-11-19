@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MatrixMultiplication_OpenMP/MatrixMultiplication_OpenMP.vcxproj" Id="59a467b8-39f0-497a-8753-8382911fd155" />
+</Solution>
